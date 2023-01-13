@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regidan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="regidan-codes" /> </p>
 
-- 🔭 I’m currently working on [ML-ZOOMCAMP](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022)
+- 🔭 I’m currently working on [DATA-ENGINEERING-ZOOMCAMP](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 - 🌱 I’m currently learning **TENSORFLOW, PYTORCH**
 
-- 💬 Ask me about **Python, C, C++, Javascript**
+- 💬 Ask me about **Python, C, C++, Java, Javascript**
 
 - 📫 How to reach me **regidancodes@gmail.com**
 
