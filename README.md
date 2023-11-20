@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regidan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="regidan-codes" /> </p>
 
-- 🔭 I’m currently working on [DATA-ENGINEERING-ZOOMCAMP](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- 🔭 I’m currently working on [Python projects]
 
 - 🌱 I’m currently learning **TENSORFLOW, PYTORCH**
 
