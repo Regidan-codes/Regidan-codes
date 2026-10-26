@@ -1,5 +1,5 @@
 ![MasterHead](https://www.ocean-geoscience.com/wp-content/uploads/2020/06/ML1.gif)
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Exploring the Data Science Landscape</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/1200/0*4aHRjVXRKsyUhm2b">
 
